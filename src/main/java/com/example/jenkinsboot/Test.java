@@ -1,5 +1,5 @@
 package com.example.jenkinsboot;
 
 public class Test {
-	// 테스트ㅁㄴㄻㄴㅀㅁㄴㅀㅁㄴㅇㅁㄴㅇ
+	// 테스트ㅁㄴㄻㄴㅀㅁㄴㅀㅁㄴㅇㅁㄴㅇㅁㄴㄻㄴㄹ
 }
